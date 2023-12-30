@@ -10,7 +10,7 @@ nav{
 
 @font-face {
     font-family: Raleway;
-    src: url(../public/Raleway-Regular.ttf);
+    src: url(/Raleway-Regular.ttf);
 
 }
 #name{
