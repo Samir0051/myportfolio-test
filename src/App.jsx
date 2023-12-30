@@ -20,10 +20,10 @@ function App() {
         <NavagationBar></NavagationBar>
         <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/myportfolio-test/Home" element={<Home />} />
-        <Route path="/myportfolio-test/Cool" element={<Cool />} />
-        <Route path="/myportfolio-test/More" element={<More />} />
-        <Route path="/myportfolio-test/Stuff" element={<Stuff />} />
+        <Route path="/Home" element={<Home />} />
+        <Route path="/Cool" element={<Cool />} />
+        <Route path="/More" element={<More />} />
+        <Route path="/Stuff" element={<Stuff />} />
       </Routes>
       </div>
     </HashRouter>

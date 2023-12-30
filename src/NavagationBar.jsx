@@ -8,10 +8,10 @@ function NavagationBar(){
             </h1>
             <div>
                 <ul id ="navbar">
-                    <li><a href="#/myportfolio-test/Home">Home</a> </li>
-                    <li><a href="#/myportfolio-test/More">More</a></li>
-                    <li><a href="#/myportfolio-test/Stuff">Stuff</a></li>
-                    <li><a href="#/myportfolio-test/Cool">Cool</a></li>
+                    <li><a href="#/Home">Home</a> </li>
+                    <li><a href="#/More">More</a></li>
+                    <li><a href="#/Stuff">Stuff</a></li>
+                    <li><a href="#/Cool">Cool</a></li>
                 </ul>
             </div>
         </nav>
